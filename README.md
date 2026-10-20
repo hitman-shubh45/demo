@@ -1,4 +1,4 @@
 # demo
 practice github
 <br>
-author - Shubham Shewale
+author - Shubham S Shewale
